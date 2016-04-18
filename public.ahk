@@ -98,3 +98,5 @@ f7 & SC126::return
 FormatTime, CurrentDateTime,, d. M. yyyy  
 SendInput %CurrentDateTime%
 return
+
+nový řádek
